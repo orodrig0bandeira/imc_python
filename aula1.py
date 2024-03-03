@@ -27,17 +27,5 @@ if usuario == u and senha == s:
     else:
         print("teste")
 
-    n1 = input("queres ficar comigo ?")
-
-    if n1 == "sim":
-        print("vlw")
-
-    elif n1 == "nao":
-        print("TOMANO CU")
-
-    else:
-        print("vou comer do mesmo jeito")
-
-
 else:
     print("inválido")
